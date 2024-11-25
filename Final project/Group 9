@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quartet's Gadget Hub</title>
+</head>
+<body>
+
+  <style>
+    body{
+
+      background-color: rgb(12, 12, 12);
+    }
+  </style>
+
+
+      
+  <nav class="navbar">
+    <div class="logo">
+      <span class="logo-text"><i class="fa fa-book" style="margin-right: 0.1em"></i>Quartet's Gadget Hub</span>
+    </div>
+
+    
+  </nav>
+  <style type="text/css">
+    .navbar{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      height: 10vh;
+      background: orange;
+      }
+      
+    .logo-text{
+      font-size: 2em;
+      }
+
+    .logo{
+      padding-left: 2em;
+    }
+
+    .menubar{
+      width: 45%;
+      margin-right: 8.5em;
+    }
+
+    .list{
+      display: flex;
+      justify-content: space-between;
+      padding-right: 10em;
+    }
+    ul{
+      list-style: none;
+    }
+
+  </style>
+
+</body>
+
+
+
+</html>
+
+       <p>
+            <b>
+                <center> <br><br><br>
+            
+                    
+                    <a href="https://www.vivo.com"> <br><br><br><br>VIVO</a>
+          <br><br><br><br><img src="vivo-mobile-phone-review.jpg">
+                    <a href="https://www.samsung.com"> <br><br><br><br>SAMSUNG </a>
+          <br><br><br><br><img src="kv-galaxy-s23_s.jpg">
+                    <a href="https://www.oppo.com"> <br><br><br><br>OPPO </a>
+          <br><br><br><br><img src="module-kv-handset-1440.jpg">
+                    <a href="https://www.infinixmobility.com"> <br><br><br><br>INFINIX </a>
+          <br><br><br><br><img src="Infinix-Price-List-Philippines-NoypiGeeks.webp">
+                    <a href="https://www.apple.com"> <br><br><br><br>APPLE </a>
+          <br><br><br><br><img src="iPhone-14-Pro-Lineup-Feature-Purple.jpg">
+                    <a href="https://www.lenovo.com"> <br><br><br><br>LENOVO </a>
+          <br><br><br><br><img src="11_B_Lenovo_LOQ_15IRH8_Closeup_Port.webp">
+                    <a href="https://www.tecno-mobile.com"> <br><br><br><br>TECNO </a>
+          <br><br><br><br><img src="Tecno-Pop-5-LTE.-3.jpg">
+                    <a href="https://www.asus.com"><br><br><br><br>ASUS </a> 
+          <br><br><br><br><img src="download.png">
+                    <a href="https://www.sony.com"> <br><br><br><br>SONY </a>
+          <br><br><br><br><img src="Finding-a-PlayStation-5-Is-About-to-Get-Easier-Gear-shutterstock_1855958302.webp">
+                    <a href="https://www.secretlab.sg"> <br><br><br><br>SECRETLAB </a>
+          <br><br><br><br><img src="home-featured-dc-lg-min.webp">
+
+            
+
+                
+
+                </center>
+            </b>
+
+            
+        </p>
+
+       
+
+         
+    </body>
+</html>
